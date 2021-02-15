@@ -11,10 +11,9 @@ sound: the file name of the sound file to play (change the directory if needed)
 # Install Packages
 
 ```
-#web scraper
 pip install selenium
 
 pip install getpass
-#play sound file
+
 pip install playsound
 ```
